@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Python 
-- 🌱 I’m currently learning Web Scraping
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: adokar.parth@gmail.com
 - 💬 Ask me about Python
 
