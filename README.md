@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: adokar.parth@gmail.com
-- 💬 Ask me about Python
+- 💬 Ask me about Python/Web Development
 
 <!--
 **parthadokar/parthadokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
