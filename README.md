@@ -1,15 +1,11 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Javascript
-- 📫 How to reach me: adokar.parth@gmail.com
-- 💬 Ask me about Python/Web Development
 
-<!--
-**parthadokar/parthadokar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Frontend Developer working in Mumbai, India.
 
-Here are some ideas to get you started:
+- 🏢 I'm currently working at Open Source
+- ⚙️ I use daily: `.js`, `.html`, `.css`
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **design**, **javascript**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/PAdokar](https://twitter.com/PAdokar)
+- ⚡️ Fun fact: I'm a huge fan of Star wars and Destiny
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Web Scraping
-- 📫 How to reach me: adokar.parth@gmail.com
--->
